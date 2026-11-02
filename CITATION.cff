@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Bias or Variance? Attenuation Correction and Fisher-Information Weighting for Federated Variational Quantum Classifiers on Heterogeneous Noisy Clients"
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+version: 0.1.0
+date-released: 2026-11-02
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/noise-bias-vs-variance-federated-vqc-aggregation"
+abstract: "Simulation study of federated variational quantum classifiers on clients with heterogeneous gate noise and finite shots: calibrated attenuation correction (bias) versus Fisher-information client weighting (variance)."
+keywords:
+  - quantum machine learning
+  - federated learning
+  - noise
+  - variational quantum circuits

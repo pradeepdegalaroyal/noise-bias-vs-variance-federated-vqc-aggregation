@@ -1,0 +1,28 @@
+{
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "rounds": 40,
+  "base_config": {
+    "n_clients": 4,
+    "rounds": 40,
+    "batch": 6,
+    "lr": 0.1,
+    "shots": 8,
+    "p_med": 0.08,
+    "sigma": 1.2,
+    "noise_kind": "depolarizing",
+    "beta": 1.0,
+    "cal_probes": 24,
+    "cal_shots": 512,
+    "cal_error": 0.0,
+    "eval_every": 5
+  },
+  "wall_clock_s": 418.38495540618896,
+  "torch": "2.11.0+cu128",
+  "quick": false
+}
